@@ -1,0 +1,2 @@
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\x64\Release\RandPat.exe
+C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\x64\Release\RandPat.exe

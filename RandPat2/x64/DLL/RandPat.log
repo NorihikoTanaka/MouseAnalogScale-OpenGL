@@ -1,0 +1,2 @@
+﻿  test5.cpp
+LINK : fatal error LNK1104: ファイル 'freeglutd.lib' を開くことができません。

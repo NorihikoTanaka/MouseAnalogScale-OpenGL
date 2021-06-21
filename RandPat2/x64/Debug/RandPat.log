@@ -1,0 +1,69 @@
+﻿  test5.cpp
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\test5.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\vec3mat33c3.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\vec3mat33c3.cpp(798,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glif2.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glview.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(29,5): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(29,26): error C2059: 構文エラー: ','
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(30,5): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(30,5): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(30,26): error C2059: 構文エラー: ','
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(31,5): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(31,5): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(31,11): error C2059: 構文エラー: ','
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(32,5): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(32,5): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(32,26): error C2059: 構文エラー: '}'
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(36,5): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(36,26): error C2059: 構文エラー: ','
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(37,5): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(37,5): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(37,26): error C2059: 構文エラー: ','
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(38,5): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(38,5): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(38,11): error C2059: 構文エラー: ','
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(39,5): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(39,5): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\glshape.cpp(39,26): error C2059: 構文エラー: '}'
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\polkadots.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\stopwatch.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\callback_win.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\pinmap.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\polkamove.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\polkamove.cpp(45,23): error C2065: 'pin_n': 定義されていない識別子です。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\polkamove.cpp(116): message : コンパイル対象の クラス テンプレート インスタンス化 'PolkaMove<DIV_W,DIV_H,PIN_N>' のリファレンスを確認してください
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\polkamove.cpp(45,23): error C3861: 'pin_n': 識別子が見つかりませんでした
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\polkamove.cpp(47,13): error C3861: 'pin_p': 識別子が見つかりませんでした
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\polkamove.cpp(47,30): error C3861: 'pin_p': 識別子が見つかりませんでした
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\polkamove.cpp(48,23): error C2065: 'pin_n': 定義されていない識別子です。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\polkamove.cpp(48,23): error C3861: 'pin_n': 識別子が見つかりませんでした
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\polkamove.cpp(48,34): error C3861: 'pin_f': 識別子が見つかりませんでした
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\polkamove.cpp(95,21): error C3861: 'pin_n': 識別子が見つかりませんでした
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\polkamove.cpp(96,27): error C2065: 'pin_n': 定義されていない識別子です。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\polkamove.cpp(96,27): error C3861: 'pin_n': 識別子が見つかりませんでした
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\polkamove.cpp(103,27): error C2065: 'pin_n': 定義されていない識別子です。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\polkamove.cpp(103,27): error C3861: 'pin_n': 識別子が見つかりませんでした
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\rs232.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\rs232.cpp(28,14): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': 引数 1 を 'const char *' から 'LPCWSTR' へ変換できません。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\rs232.cpp(28,25): message : 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h(100,1): message : 'CreateFileW' の宣言を確認してください
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\comif.cpp(279,15): error C2664: 'LSTATUS RegQueryValueExW(HKEY,LPCWSTR,LPDWORD,LPDWORD,LPBYTE,LPDWORD)': 引数 2 を 'const char [9]' から 'LPCWSTR' へ変換できません。
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\lib\comif.cpp(279,36): message : 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winreg.h(860,1): message : 'RegQueryValueExW' の宣言を確認してください
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\test5.cpp(146,47): error C2039: 'cur_x': 'PolkaMove<20,20,384>' のメンバーではありません
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\test5.cpp(96): message : 'PolkaMove<20,20,384>' の宣言を確認してください
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\test5.cpp(146,74): error C2039: 'cur_y': 'PolkaMove<20,20,384>' のメンバーではありません
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\test5.cpp(96): message : 'PolkaMove<20,20,384>' の宣言を確認してください
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\test5.cpp(146,81): error C2660: 'glTranslatef': 関数に 2 個の引数を指定できません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\GL\glew.h(1157,23): message : 'glTranslatef' の宣言を確認してください
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\test5.cpp(152,31): error C2039: 'pin_n': 'PolkaMove<20,20,384>' のメンバーではありません
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\test5.cpp(96): message : 'PolkaMove<20,20,384>' の宣言を確認してください
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\test5.cpp(153,21): error C2039: 'pin_p': 'PolkaMove<20,20,384>' のメンバーではありません
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\test5.cpp(96): message : 'PolkaMove<20,20,384>' の宣言を確認してください
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\test5.cpp(154,15): error C2039: 'pin_f': 'PolkaMove<20,20,384>' のメンバーではありません
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\test5.cpp(96): message : 'PolkaMove<20,20,384>' の宣言を確認してください
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\test5.cpp(160,18): error C2039: 'pin_n': 'PolkaMove<20,20,384>' のメンバーではありません
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\test5.cpp(96): message : 'PolkaMove<20,20,384>' の宣言を確認してください
+C:\Users\hirota\tanaka\3AirPumpController-for-PinArraySystem\RandPat2\test5.cpp(160,24): error C2133: 'text': サイズが不明です。
