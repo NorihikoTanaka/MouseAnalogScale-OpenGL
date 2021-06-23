@@ -105,8 +105,9 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
     <ExecutablePath>C:\Libs\dll64;$(ExecutablePath)</ExecutablePath>
-    <IncludePath>C:\Libs\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Libs\lib64;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\Norihiko Tanaka\Documents\_広田研関連\Libs\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\Norihiko Tanaka\Documents\_広田研関連\Libs;$(LibraryPath)</LibraryPath>
+    <OutDir>C:\Users\Norihiko Tanaka\Documents\_広田研関連\Libs\bin\</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DLL|x64'">
     <TargetName>UnityDll</TargetName>
@@ -163,12 +164,14 @@
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <AdditionalOptions>/utf-8 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>C:\Users\Norihiko Tanaka\Documents\_広田研関連\Libs\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\Users\Norihiko Tanaka\Documents\_広田研関連\Libs\bin;C:\Users\Norihiko Tanaka\Documents\_広田研関連\Libs\lib64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='DLL|x64'">

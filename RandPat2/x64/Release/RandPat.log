@@ -1,125 +1,282 @@
 ﻿  test5.cpp
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x21d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x21e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x21f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x223 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x224 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x320 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x322 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x326 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x327 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x42b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x42d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x42f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x431 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x433 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x435 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x436 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x437 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x56b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x56f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x571 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x572 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x573 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x575 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x577 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x579 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x57b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x57d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x57e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x581 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x583 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x585 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x587 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x588 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x589 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x6d5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x6d9 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x6db から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x6dc から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x6dd から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x6df から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x6e1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x6e3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x6e5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x6e7 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x6e8 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x6eb から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x6ed から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x6ef から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x6f1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x6f2 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x6f3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x793 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x795 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x797 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x798 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x799 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x79b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x79d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x7a3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x7a5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x7a7 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x7a9 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x805 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x808 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x809 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x80c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x80d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x80e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x80f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x810 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x830 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x832 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x833 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x834 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x835 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x836 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x838 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x83a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x83b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x842 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x843 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x876 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x877 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x87a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x87b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x882 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x884 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x886 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x887 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x888 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x88a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x88c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x88d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x891 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x8da から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x8dc から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x8dd から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x8de から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x8e1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x904 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x906 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x908 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x93c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x93d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x93e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x93f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x940 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x941 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x942 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x944 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x946 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x94a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x94c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x94d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x94e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x950 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x952 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
-C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\test5.cpp(51,39): warning C4305: '引数': 'double' から 'GLclampf' へ切り詰めます。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x94 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x96 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x9a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x9c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x9e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x9f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xbc から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xbd から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xbe から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xbf から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xc0 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xc4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xc6 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xc8 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xca から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xcb から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xcc から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xce から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xd0 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xd1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xf2 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xf3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xf4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xf6 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xf8 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xfa から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xfb から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xfc から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xfe から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x101 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x102 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x103 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x324 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x325 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x326 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x327 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x328 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x32c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x32d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x417 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x419 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x41d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x41e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x532 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x533 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x534 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x535 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x536 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x53a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x53b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x5fa から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x5fc から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x5fe から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x5ff から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x600 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x602 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x604 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x606 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x609 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x60d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x60e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x610 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x612 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x614 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x616 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x619 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x61a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x61b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x63f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x642 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x643 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x645 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x646 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x64a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x64b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x64c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x64d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x64e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x66c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x66e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x670 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x671 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x672 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x674 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x675 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x676 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x677 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x67a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x67b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x67c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x67e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x680 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x681 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x686 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x688 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x68b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x68c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x68e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x690 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x693 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x696 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x697 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x698 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x699 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x69a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x69b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x92b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x92f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x931 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x932 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x933 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x935 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x937 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x939 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x93b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x93d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x93e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x941 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x943 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x945 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x947 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x948 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x949 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x9fd から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x9fe から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x9ff から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xa00 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xa01 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xa02 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xa03 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xa04 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xa05 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xa07 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xa0c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xc04 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xc08 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xc0b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xc0c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xc0e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xc10 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xc12 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xc13 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xc14 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xc16 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xc17 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xc1b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xcae から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xcb0 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xcb1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xcb2 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xcb3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xcb4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xcb6 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xcb8 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xdb3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xdb4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xdb5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xdba から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xdbb から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xdbd から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xdc2 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xf23 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xf24 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xf2a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xf2b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xf33 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xf35 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xf37 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xfed から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xfef から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xff1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xff2 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xff3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xff5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xff7 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xff8 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xffc から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0xffd から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1001 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1003 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1004 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1005 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1009 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x100b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1067 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x106a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x106b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x106e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x106f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1070 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1071 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1072 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1092 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1094 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1095 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1096 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1097 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1098 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x109a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x109c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x109d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x10a4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x10a5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x10d8 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x10d9 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x10dc から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x10dd から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x10e4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x10e6 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x10e8 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x10e9 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x10ea から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x10ec から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x10ee から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x10ef から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x10f3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x113c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x113e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x113f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1140 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1143 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1166 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1168 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x116a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x116b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x116c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x116e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1170 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1171 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1172 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1174 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1176 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1178 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x117a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x117c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x117d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x117e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1180 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1182 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1184 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1186 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1189 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x118a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x118c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1191 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x11b3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x11b5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x11b7 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x11f1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x11f3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x11f5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x11f7 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x11f9 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1233 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1234 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1235 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1236 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1237 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1238 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1239 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x123b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x123d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1241 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1243 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1244 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1245 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1247 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(1,1): warning C4828: オフセット 0x1249 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(74,56): warning C4305: '引数': 'double' から 'GLclampf' へ切り詰めます。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(77,12): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(86,14): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(93,27): warning C4244: '=': 'double' から 'GLint' への変換です。データが失われる可能性があります。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(93,59): warning C4244: '=': 'double' から 'GLint' への変換です。データが失われる可能性があります。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(187,31): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Norihiko Tanaka\Documents\_広田研関連\2021\pinarray\MouseAnalogScale-OpenGL\RandPat2\test5.cpp(187,21): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
   コード生成しています。
-  2 of 10 functions (20.0%) were compiled, the rest were copied from previous compilation.
+  2 of 16 functions (12.5%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    1 functions had inline decision re-evaluated but remain unchanged
   コード生成が終了しました。
-  RandPat.vcxproj -> C:\Users\hirota\tanaka\OpenGL-Study\RandPat2\x64\Release\RandPat.exe
+  RandPat.vcxproj -> C:\Users\Norihiko Tanaka\Documents\_広田研関連\Libs\bin\RandPat.exe
