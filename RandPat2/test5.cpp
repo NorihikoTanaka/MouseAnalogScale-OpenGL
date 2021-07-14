@@ -3,12 +3,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//#define VAS_Circle
+#define VAS_Bar
+
 const int PointsNum = 2000;
 double CPArray[PointsNum][2];   // 円の点群配列
 GLint LSArray[2][2];   // 線分の始点終点座標配列
 int rubberband = 0;        /* ラバーバンドの消去 */
 const double PI = 3.141593;
 const double WinSizeX = 600, WinSizeY = 600;
+const double BarLPos = 100, BarRPos = 500;
 
 float ExAns[100][2];
 int exnum = 0;
@@ -24,10 +28,20 @@ void CirclePointsInit(void) {
 	}
 }
 
+void render_string(float x, float y, float z, const char* str) {
+	glRasterPos3f(x, y, z);
+
+	const char* c = str;
+	while (*c) {
+		glutBitmapCharacter(GLUT_BITMAP_HELVETICA_18, *c++);
+	}
+}
+
 void display(void)
 {
 	glClear(GL_COLOR_BUFFER_BIT);
 	
+#ifdef VAS_Circle
 	// 軸線の描画
 	glColor3d(1.0, 0.0, 0.0);
 
@@ -56,7 +70,43 @@ void display(void)
 	glVertex2iv(LSArray[0]);
 	glVertex2iv(LSArray[1]);
 	glEnd();
+#endif
 
+#ifdef VAS_Bar
+	// 軸線の描画
+	glColor3d(1.0, 0.0, 0.0);
+
+	glLineWidth(3.0);
+	glBegin(GL_LINES);
+	//基軸
+	//glVertex2d(WinSizeX / 10 * 2, WinSizeY / 2);   glVertex2d(WinSizeX / 10 * 8, WinSizeY / 2);
+	glVertex2d(BarLPos, WinSizeY / 2);   glVertex2d(BarRPos, WinSizeY / 2);
+	//端
+	glVertex2d(BarLPos, WinSizeY / 2 - 20);
+	glVertex2d(BarLPos, WinSizeY / 2 + 20);
+	glVertex2d(BarRPos, WinSizeY / 2 - 20);
+	glVertex2d(BarRPos, WinSizeY / 2 + 20);
+	glEnd();
+
+	// 線分の描画
+	//glColor3d(1.0, 1.0, 0.5);
+	glColor3d(1.0, 0.0, 0.0);
+	glLineWidth(4.0);
+	glBegin(GL_LINES);
+	glVertex3d(LSArray[0][0], LSArray[0][1], 1.0f);
+	glVertex3d(LSArray[1][0], LSArray[1][1], 1.0f);
+	glEnd();
+
+	glColor3d(1.0, 0.0, 0.0);
+	//printf("width: %f\n", WinSizeX / 10);
+	render_string(BarLPos - 5, WinSizeY / 2 + 40, 0, "0");
+	//render_string(WinSizeX / 10 * 2 - 35, WinSizeY / 2 + 60, 0, "Hard");
+	//render_string(WinSizeX / 10 * 2 - 65, WinSizeY / 2 + 80, 0, "understand");
+	render_string(BarRPos - 15, WinSizeY / 2 + 40, 0, "100");
+	//render_string(WinSizeX / 10 * 8 - 35, WinSizeY / 2 + 60, 0, "Easy");
+	//render_string(WinSizeX / 10 * 8 - 65, WinSizeY / 2 + 80, 0, "understand");
+
+#endif
 
 	glFlush();
 }
@@ -87,13 +137,12 @@ float angle(GLint Array[][2]) {
 	return theta;
 }
 
-
+#ifdef VAS_Circle
 //https://tokoik.github.io/opengl/libglut.html
 void mouse(int button, int state, int x, int y) {   // x,yはウインドウサイズ内のピクセル値
 	LSArray[0][0] = WinSizeX / 2;   LSArray[0][1] = WinSizeY / 2;
 
 	glColor3d(0.0, 1.0, 0.0);
-
 	switch (button) {
 	case GLUT_LEFT_BUTTON:
 
@@ -109,9 +158,7 @@ void mouse(int button, int state, int x, int y) {   // x,yはウインドウサイズ内の
 			glFlush();
 			
 			rubberband = 0;
-			
 		}
-
 		break;
 	default:
 		break;
@@ -153,6 +200,92 @@ void motion(int x, int y) {
 	
 	rubberband = 1;
 }
+#endif
+
+
+#ifdef VAS_Bar
+void mouse(int button, int state, int x, int y) {   // x,yはウインドウサイズ内のピクセル値
+	//LSArray[0][0] = WinSizeX / 2;   LSArray[0][1] = WinSizeY / 2;
+
+	glColor3d(0.0, 1.0, 0.0);
+
+	switch (button) {
+	case GLUT_LEFT_BUTTON:
+
+		if (state == GLUT_UP) {
+			// 離した座標の保存
+			LSArray[0][0] = x;   LSArray[0][1] = WinSizeY / 2 - 30;
+			LSArray[1][0] = x;   LSArray[1][1] = WinSizeY / 2 + 30;
+
+			//if (x < WinSizeX / 10 * 2) { 
+			if (x < BarLPos) {
+				//LSArray[0][0] = WinSizeX / 10 * 2;   LSArray[1][0] = WinSizeX / 10 * 2;
+				LSArray[0][0] = BarLPos;   LSArray[1][0] = BarLPos;
+			}
+			//if (x > WinSizeX / 10 * 8) { 
+			if (x > BarRPos) {
+				//LSArray[0][0] = WinSizeX / 10 * 8;   LSArray[1][0] = WinSizeX / 10 * 8;
+				LSArray[0][0] = BarRPos;   LSArray[1][0] = BarRPos;
+			}
+
+			glColor3d(1.0, 0.0, 0.0);
+			glBegin(GL_LINES);
+			glVertex3d(LSArray[0][0], LSArray[0][1], 1.0f);
+			glVertex3d(LSArray[1][0], LSArray[1][1], 1.0f);
+			glEnd();
+			glFlush();
+
+			rubberband = 0;
+
+		}
+
+		break;
+	default:
+		break;
+	}
+	//printf("x: %d, y: %d\n", x, y);
+}
+
+
+void motion(int x, int y) {
+	glEnable(GL_COLOR_LOGIC_OP);
+	glLogicOp(GL_INVERT);
+		
+	glColor3d(1.0, 0.0, 0.0);
+	glBegin(GL_LINES);
+	if (rubberband) {
+		glVertex3d(LSArray[0][0], LSArray[0][1], 1.0f);
+		glVertex3d(LSArray[1][0], LSArray[1][1], 1.0f);
+	}
+
+	// 回答範囲の設定
+	int posX = x;
+	//if (x < WinSizeX / 10 * 2) { posX = WinSizeX / 10 * 2; }
+	//if (x > WinSizeX / 10 * 8) { posX = WinSizeX / 10 * 8; }
+
+	if (x < BarLPos) { posX = BarLPos; }
+	if (x > BarRPos) { posX = BarRPos; }
+
+	glVertex3d(posX, WinSizeY / 2 - 30, 1.0f);
+	glVertex3d(posX, WinSizeY / 2 + 30, 1.0f);
+	glEnd();
+	glFlush();
+		
+	/* 論理演算機能 OFF */
+	glLogicOp(GL_COPY);
+	glDisable(GL_COLOR_LOGIC_OP);
+		
+	ExAns[exnum][0] = posX - BarLPos;
+	ExAns[exnum][1] = -1;
+	printf(" length:%f, -:%f\n", ExAns[exnum][0], ExAns[exnum][1]);
+	
+	// 現在の座標の保存
+	LSArray[0][0] = posX;   LSArray[0][1] = WinSizeY / 2 - 30;
+	LSArray[1][0] = posX;   LSArray[1][1] = WinSizeY / 2 + 30;
+
+	rubberband = 1;
+}
+#endif
 
 
 void exprocess(void) {
